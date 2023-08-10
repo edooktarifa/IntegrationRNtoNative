@@ -66,7 +66,8 @@ https://medium.com/@ibrahim.sulaiman_18323/integrating-react-native-app-in-an-ex
 here is the result app
 
 
-![demoRN](https://github.com/edooktarifa/IntegrationRNtoNative/assets/70421797/ddc44a12-7e36-401d-8ba6-3ad11ed8f059)
+<img src="https://github.com/edooktarifa/IntegrationRNtoNative/assets/70421797/ddc44a12-7e36-401d-8ba6-3ad11ed8f059.gif" width="20%" height="30%"/>
+
 
 
 
